@@ -9,26 +9,12 @@ Nesta pasta estão organizados meus estudos de **Microsoft Excel** voltados para
 
 ## 📂 Organização
 
-```text
-excel
-│
-├── aulas
-├── atividades
-├── desafios
-└── projetos
-```
-
-### 📖 Aulas
-Conteúdo das aulas, exercícios demonstrativos e exemplos apresentados durante a formação.
-
-### 📝 Atividades
-Exercícios propostos para praticar e consolidar os conhecimentos adquiridos.
-
-### 💡 Desafios
-Desafios práticos desenvolvidos para aplicar os conceitos estudados em situações reais.
-
-### 🚀 Projetos
-Projetos completos desenvolvidos ao longo da formação para fortalecer o portfólio e aplicar os conhecimentos na prática.
+| Seção | Descrição |
+|-------|-----------|
+| 📖 [Aulas](./aulas/) | Conteúdo das aulas, exemplos e exercícios apresentados durante a formação. |
+| 📝 [Atividades](./atividades/) | Exercícios propostos para praticar e consolidar os conhecimentos adquiridos. |
+| 💡 [Desafios](./desafios/) | Desafios práticos para aplicar os conceitos estudados. |
+| 🚀 [Projetos](./projetos/) | Projetos completos desenvolvidos ao longo da formação. |
 
 ## 🎯 Objetivo
 
