@@ -1,45 +1,67 @@
-# Estudos em Data Analytics
+# 📊 Estudos em Data Analytics
 
-Este repositório reúne meus estudos, atividades e projetos relacionados à área de Análise de Dados.
+Bem-vindo ao meu repositório de estudos!
 
-## Objetivo
+Aqui organizo minhas atividades, desafios e projetos relacionados à área de Análise de Dados.
 
-Desenvolver conhecimentos práticos em análise, tratamento e visualização de dados, construindo um portfólio para oportunidades como Analista de Dados.
+---
 
-## Tecnologias e ferramentas
+## 📚 Trilhas de Estudo
 
-- Excel
-- SQL
-- Power BI
-- Python
-- Pandas
-- Estatística
-- Git e GitHub
-- Microsoft Azure
-- Microsoft Fabric
+### 📊 Excel
 
-## Organização do repositório
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](excel)
 
-- `sql/` — consultas, exercícios e desafios de banco de dados
-- `python/` — exercícios e análises com Python
-- `power-bi/` — dashboards e projetos em Power BI
-- `excel/` — planilhas, fórmulas e análises
-- `estatistica/` — atividades e conceitos estatísticos
-- `dio/` — projetos realizados na plataforma DIO
-- `pos-graduacao/` — atividades da pós em Big Data e Business Analytics
-- `projetos/` — projetos completos para portfólio
+Atividades, desafios e projetos desenvolvidos em Microsoft Excel.
 
-## Projetos em destaque
+---
 
-Os principais projetos serão adicionados nesta seção conforme forem concluídos.
+### 🗄️ SQL
 
-## Certificações e estudos
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](sql)
 
-- Pós-graduação em Gestão de Big Data e Business Analytics
-- Preparação para a certificação Microsoft PL-300
-- Cursos de SQL, Python, Power BI e análise de dados
+Consultas, exercícios e projetos relacionados a bancos de dados.
 
-## Autor
+---
 
-Paulo Henrique  
-Estudante de Data Analytics e Business Analytics
+### 🐍 Python
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](python)
+
+Estudos de Python aplicados à análise e ao tratamento de dados.
+
+---
+
+### 📈 Power BI
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](power-bi)
+
+Dashboards, visualizações e projetos desenvolvidos no Power BI.
+
+---
+
+## 🎓 Pós-Graduação
+
+[![Pós-Graduação](https://img.shields.io/badge/Gest%C3%A3o%20de%20Big%20Data%20e%20Business%20Analytics-0057B8?style=for-the-badge)](pos-graduacao)
+
+Disciplinas, atividades e projetos da pós-graduação em Gestão de Big Data e Business Analytics.
+
+---
+
+## 🚀 Objetivo
+
+Construir um portfólio para atuar como **Analista de Dados**, registrando minha evolução por meio de estudos e projetos práticos.
+
+---
+
+## 📂 Organização
+
+Cada área será organizada desta forma:
+
+```text
+área-de-estudo
+│
+├── atividades
+├── desafios
+├── projetos
+└── README.md
