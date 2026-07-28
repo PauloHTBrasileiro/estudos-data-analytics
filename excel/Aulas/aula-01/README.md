@@ -2,6 +2,7 @@
 
 **Introdução a IAs - Excel com IA e Claude**
 
-## 📝 Anotações - Parte 01
+## 📝 Anotações 
 
+📘 [Parte 01 - Introdução à Engenharia de Prompts](./IEP/)| ✔️ |
 
