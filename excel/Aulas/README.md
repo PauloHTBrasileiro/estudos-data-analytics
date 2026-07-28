@@ -14,7 +14,7 @@ Nesta pasta estão organizadas todas as aulas da formação **Análise de Dados 
 
 | Aula | Status |
 |------|:------:|
-| [📘 Aula 01](./aula-01/) | ⏳ |
+| [📘 Aula 01](./Aula-01/) | ⏳ |
 | 📂 02 - Em breve | ⏳ |
 | 📂 03 - Em breve | ⏳ |
 | 📂 04 - Em breve | ⏳ |
