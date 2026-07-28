@@ -4,5 +4,7 @@
 
 ## 📝 Anotações 
 
-📘 [Parte 01 - Introdução à Engenharia de Prompts](./IEP/)| ✔️ |
+| Aula | Status |
+|------|:------:|
+|📘 [Parte 01 - Introdução à Engenharia de Prompts](./IEP/)| ✔️ |
 
