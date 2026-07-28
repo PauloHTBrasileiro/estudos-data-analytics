@@ -7,4 +7,4 @@
 | Aula | Status |
 |------|:------:|
 |📘 [Parte 01 - Introdução à Engenharia de Prompts](./IEP/)| ✔️ |
-
+|📘 [Parte 02 - Aplicações Práticas da Inteligência Artificial](./APIA/)| ⏳ |
