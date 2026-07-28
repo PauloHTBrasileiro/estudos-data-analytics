@@ -11,7 +11,7 @@ Nesta pasta estão organizados meus estudos de **Microsoft Excel** voltados para
 
 | Seção | Descrição |
 |-------|-----------|
-| 📖 [Aulas](./aulas/) | Conteúdo das aulas, exemplos e exercícios apresentados durante a formação. |
+| 📖 [Aulas](./Aulas/) | Conteúdo das aulas, exemplos e exercícios apresentados durante a formação. |
 | 📝 [Atividades](./atividades/) | Exercícios propostos para praticar e consolidar os conhecimentos adquiridos. |
 | 💡 [Desafios](./desafios/) | Desafios práticos para aplicar os conceitos estudados. |
 | 🚀 [Projetos](./projetos/) | Projetos completos desenvolvidos ao longo da formação. |
