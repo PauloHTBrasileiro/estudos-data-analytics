@@ -1,11 +1,27 @@
 # 📖 Aulas
 
-## Formação Análise de Dados com Excel e IA
+Nesta pasta estão organizadas todas as aulas da formação **Análise de Dados com Excel e IA**, da plataforma **DIO (Digital Innovation One)**.
 
-### Conteúdo
+---
 
-- 📘 [Aula 01 - Introdução a IAs - Excel com IA e Claude](./aula-01/)
-- 📘 [Aula 02 - Engenharia de Prompt para Excel com IA](./aula-02/)
-- 📘 [Aula 03 - Análise de Dados com IA no Excel](./aula-03/)
-- 📘 [Aula 04 - Automação e Produtividade com IA](./aula-04/)
-- 📘 [Aula 05 - Projeto Prático](./aula-05/)
+## 📚 Formação
+
+**Análise de Dados com Excel e IA**
+
+---
+
+## 📋 Lista de Aulas
+
+| Aula | Status |
+|------|:------:|
+| [📘 Aula 01](./aula-01/) | ⏳ |
+| 📂 02 - Em breve | ⏳ |
+| 📂 03 - Em breve | ⏳ |
+| 📂 04 - Em breve | ⏳ |
+| 📂 05 - Em breve | ⏳ |
+
+---
+
+## 🎯 Objetivo
+
+Registrar todo o conteúdo estudado durante a formação, incluindo exemplos, exercícios, atividades e projetos desenvolvidos ao longo das aulas.
